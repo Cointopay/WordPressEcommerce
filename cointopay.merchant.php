@@ -8,7 +8,7 @@
   * Author URI: http://wpecommerce.org/
   * Text Domain: wp-e-commerce
   **/
-
+  
 /**
  * WP_eCommerce
  *
