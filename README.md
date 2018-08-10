@@ -6,7 +6,7 @@ Tested up to: 4.9.6
 Stable tag: 1.0
 
 ## Description
-Cointopay Payment Gateway for WP eCommerce, ** WP eCommerce ** is a free open-source WordPress Shopping Cart Plugin that lets customers buy your products, services and digital downloads online.
+Cointopay Payment Gateway for WP eCommerce, **WP eCommerce** is a free open-source WordPress Shopping Cart Plugin that lets customers buy your products, services and digital downloads online.
 
 ### Simple to install and get running
 1) Install the WordPress e-Commerce plugin from http://getshopped.org via WordPress.
